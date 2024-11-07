@@ -1,6 +1,6 @@
 # React Timer
 
-A simple timer built in React for practicing hooks.
+A simple timer built in React for practicing hooks and CSS.
 
 ## Showcase
 
